@@ -5,3 +5,4 @@ Este repositorio contiene los notebooks de Mathematica/Python empleados para est
 - Notebooks de perturbaciones (Vitor Cardoso).
 - GW_Rdown contiene notebooks para generar modelos de ringdown, calcular frecuencias y amortiguamiento de QNMs, y estimar masa y espín finales (Xisco Jiménez).
 - RD_Fits contienes notebooks para fitear los ringdowns de diferentes waveforms (Xisco Jiménez).
+- pynr permite recuperar las waveforms de los catálogos de RIT, MAYA y SXS (Xisco Jiménez).
