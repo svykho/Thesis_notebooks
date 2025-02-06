@@ -1,8 +1,9 @@
 # Thesis_notebooks
 
-Este repositorio contiene los notebooks de Mathematica/Python empleados para estudiar perturbaciones en agujeros negros y las propiedades de los ringdowns. Por el momento, se compone de:
-- Tutorial para el Black Hole Perturbation Toolkit.
-- Notebooks de perturbaciones (Vitor Cardoso).
-- GW_Rdown contiene notebooks para generar modelos de ringdown, calcular frecuencias y amortiguamiento de QNMs, y estimar masa y espín finales (Xisco Jiménez).
-- RD_Fits contienes notebooks para fitear los ringdowns de diferentes waveforms (Xisco Jiménez).
-- pynr permite recuperar las waveforms de los catálogos de RIT, MAYA y SXS (Xisco Jiménez).
+This repository contains the Mathematica/Python notebooks used to study perturbations in black holes and ringdown properties. At the moment, it consists of:
+- Tutorial for the Black Hole Perturbation Toolkit.
+- Perturbation notebooks (Vitor Cardoso).
+- GW_Rdown contains notebooks to generate ringdown models, calculate frequencies and damping of QNMs, and estimate final mass and spin (Xisco Jiménez).
+- RD_Fits contains notebooks to fit ringdowns of different waveforms (Xisco Jiménez).
+- pynr allows to retrieve waveforms from the RIT, MAYA and SXS catalogs (Xisco Jiménez).
+- teuk-fortran-2020 solves Teukolsky equation for the linearly perturbed Newman-Penrose scalar Psi4 about a Kerr black hole (Justin Ripley).
