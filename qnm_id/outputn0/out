@@ -1,0 +1,18 @@
+NUMERICAL INTEGRATION OF THE TEUKOLSKY EQUATION IN THE TIME DOMAIN 
+domain r:[-250.000000,950.000000] theta:[0,3.1416] 
+ghost zones in theta (acc_th - 1 )= 2
+2-D grid, size: Nr x Nth : 4000 x 51
+resolution: dr = 0.300000, dth = 0.065450 
+Courant factor = 0.250000
+accuracy order: t = 4, r = 4, th = 4
+number of iterations = 16000
+output 1D every 50 iterations
+output 2D every 5000 iterations
+output tails every 1 iterations
+PHYSICAL PARAMETERS: 
+angular momentum a = 0.700000
+l mode         = 2.000000
+phi m mode         = 0.000000
+spin s             = -2.000000
+black hole mass M  = 1.000000
+Initial pulse direction: outgoing
